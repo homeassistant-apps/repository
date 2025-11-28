@@ -5,3 +5,7 @@ addons:
     repository: brenner-tobias/addon-cloudflared
     target: cloudflared
     image: ghcr.io/brenner-tobias/cloudflared/{arch}
+  newt:
+    repository: homeassistant-apps/app-newt
+    target: newt
+    image: ghcr.io/homeassistant-apps/newt/{arch}

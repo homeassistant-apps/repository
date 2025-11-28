@@ -1,0 +1,16 @@
+name: Newt
+version: 2025.11.1
+slug: newt
+description: Tunneling client to connect Home Assistant to Pangolin.
+url: https://github.com/elcajon-dev/addon-newt
+startup: services
+init: false
+arch:
+- aarch64
+- amd64
+schema:
+  pangolin_endpoint: str
+  newt_id: str
+  newt_secret: str
+  log_level: list(trace|debug|info|notice|warning|error|fatal)?
+image: ghcr.io/elcajon-dev/newt/{arch}
