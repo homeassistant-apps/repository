@@ -1,0 +1,20 @@
+---
+configuration:
+  log_level:
+    name: Log Level
+    description: >-
+      Bestimmt das Log Level für das Add-on und den Code Server service.
+  newt_id:
+    name: Newt ID
+    description: >-
+      Trage hier die Newt ID ein die bei Erstellung der Seite angezeigt wird.
+  newt_secret:
+    name: Newt Secret
+    description: >-
+      Trage hier das Newt Secret ein das bei Erstellung der
+      Seite angezeigt wird.
+  pangolin_endpoint:
+    name: Pangolin Endpoint
+    description: >-
+      Trage hier deinen Pangolin Endpoint ein, stelle sicher dass du die gnaze
+      URL einträgst (z.B. https://pangolin.example.com)

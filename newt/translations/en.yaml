@@ -1,0 +1,19 @@
+---
+configuration:
+  log_level:
+    name: Log Level
+    description: >-
+      Defines the log level for add-on and Code Server service.
+  newt_id:
+    name: Newt ID
+    description: >-
+      Enter the Newt ID displayed after creating your site.
+  newt_secret:
+    name: Newt Secret
+    description: >-
+      Enter your Newt secret displayer after creating your site
+  pangolin_endpoint:
+    name: Pangolin Endpoint
+    description: >-
+      Enter your Pangolin endpoint, make sure to enter de full URI
+      (e.g. https://pangolin.example.com)
