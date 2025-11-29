@@ -1,0 +1,6 @@
+---
+configuration:
+  log_level:
+    name: Log Level
+    description: >-
+      Defines the log level for add-on and Code Server service.
