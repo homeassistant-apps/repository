@@ -1,4 +1,8 @@
 ## What’s changed
-## 🚀 Enhancements
+## 🧰 Maintenance
 
-- Move Repository to Organization @elcajon (#31)
+- Update Readme and CI @elcajon (#32)
+
+## 📚 Documentation
+
+- Update Readme and CI @elcajon (#32)
