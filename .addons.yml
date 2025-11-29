@@ -9,3 +9,7 @@ addons:
     repository: homeassistant-apps/app-newt
     target: newt
     image: ghcr.io/homeassistant-apps/newt/{arch}
+  code-server:
+    repository: homeassistant-apps/app-code-server
+    target: code-server
+    image: ghcr.io/homeassistant-apps/code-server/{arch}

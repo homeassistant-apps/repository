@@ -1,0 +1,41 @@
+name: Advanced Code Server
+version: fa30ff3
+slug: code-server
+description: Code Server experience integrated in the Home Assistant frontend.
+url: https://github.com/elcajon-dev/addon-code-server
+ingress: true
+ingress_port: 1337
+ingress_stream: true
+panel_icon: mdi:code-json
+startup: services
+init: false
+arch:
+- amd64
+uart: true
+docker_api: true
+hassio_api: true
+hassio_role: admin
+homeassistant_api: true
+map:
+- type: addons
+  read_only: false
+- type: addon_config
+  read_only: false
+- type: all_addon_configs
+  read_only: false
+- type: backup
+  read_only: false
+- type: homeassistant_config
+  read_only: false
+- type: media
+  read_only: false
+- type: share
+  read_only: false
+- type: ssl
+  read_only: false
+services:
+- mysql:want
+- mqtt:want
+schema:
+  log_level: list(trace|debug|info|notice|warning|error|fatal)?
+image: ghcr.io/homeassistant-apps/code-server/{arch}
