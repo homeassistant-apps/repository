@@ -1,4 +1,4 @@
-# Unofficial Home Assistant Apps (Add-Ons) Repository
+# Unofficial Home Assistant Apps (Add-ons) Repository
 
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]
@@ -9,9 +9,6 @@
 Home Assistant allows anyone to create add-on repositories to share their
 add-ons for Home Assistant easily. This repository is one of those repositories,
 providing extra Home Assistant add-ons for your installation.
-
-The primary goal of this repository is to provide an add-on to use Cloudflared.
-Additional add-ons might follow in the future.
 
 ## Installation
 
@@ -123,9 +120,9 @@ SOFTWARE.
 [code-server-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [code-server-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [code-server-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-cloudflared]: https://github.com/brenner-tobias/addon-cloudflared/tree/v7.0.0
-[addon-doc-cloudflared]: https://github.com/brenner-tobias/addon-cloudflared/blob/v7.0.0/README.md
-[cloudflared-issue]: https://github.com/brenner-tobias/addon-cloudflared/issues
+[addon-cloudflared]: https://github.com/homeassistant-apps/app-cloudflared/tree/v7.0.0
+[addon-doc-cloudflared]: https://github.com/homeassistant-apps/app-cloudflared/blob/v7.0.0/README.md
+[cloudflared-issue]: https://github.com/homeassistant-apps/app-cloudflared/issues
 [cloudflared-version-shield]: https://img.shields.io/badge/version-v7.0.0-blue.svg
 [cloudflared-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [cloudflared-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
