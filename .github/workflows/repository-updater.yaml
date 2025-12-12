@@ -8,6 +8,6 @@ on:
 
 jobs:
   workflows:
-    uses: hassio-addons/workflows/.github/workflows/repository-updater.yaml@main
+    uses: homeassistant-apps/workflows/.github/workflows/repository-updater.yaml@main
     secrets:
       UPDATER_TOKEN: ${{ secrets.PAT_BRENNER_BOT }}
