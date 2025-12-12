@@ -1,5 +1,5 @@
 name: Advanced Code Server
-version: 2025.11.2
+version: 4.2.3
 slug: code-server
 description: Code Server experience integrated in the Home Assistant frontend.
 url: https://github.com/homeassistant-apps/app-code-server
