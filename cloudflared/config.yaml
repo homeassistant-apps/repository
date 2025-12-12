@@ -4,8 +4,8 @@ breaking_versions:
 - 5.3.7
 - 6.0.0
 slug: cloudflared
-description: Use a Cloudflare Tunnel to remotely connect to Home Assistant without
-  opening any ports
+description: Use a Cloudflare Tunnel to remotely connect to Home Assistant 
+  without opening any ports
 url: https://github.com/homeassistant-apps/app-cloudflared
 startup: services
 init: false
@@ -20,7 +20,7 @@ options:
   external_hostname: ''
   additional_hosts: []
 ports:
-  36500/tcp: null
+  36500/tcp:
 schema:
   external_hostname: str?
   additional_hosts:
