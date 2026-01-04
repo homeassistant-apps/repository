@@ -3,7 +3,7 @@ configuration:
   log_level:
     name: Log Level
     description: >-
-      Bestimmt das Log Level für das Add-on und den Code Server service.
+      Bestimmt das Log Level für das Add-on und den Newt service.
   newt_id:
     name: Newt ID
     description: >-
