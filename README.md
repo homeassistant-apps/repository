@@ -24,19 +24,6 @@ https://github.com/homeassistant-apps/repository
 
 ## Add-ons provided by this repository
 
-### &#10003; [Advanced Code Server][addon-code-server]
-
-![Latest Version][code-server-version-shield]
-![Supports armhf Architecture][code-server-armhf-shield]
-![Supports armv7 Architecture][code-server-armv7-shield]
-![Supports aarch64 Architecture][code-server-aarch64-shield]
-![Supports amd64 Architecture][code-server-amd64-shield]
-![Supports i386 Architecture][code-server-i386-shield]
-
-Code Server experience integrated in the Home Assistant frontend.
-
-[:books: Advanced Code Server add-on documentation][addon-doc-code-server]
-
 ### &#10003; [Cloudflared][addon-cloudflared]
 
 ![Latest Version][cloudflared-version-shield]
@@ -81,7 +68,6 @@ Open an issue here on GitHub. Note, we use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
-- [Open an issue for the add-on: Advanced Code Server][code-server-issue]
 - [Open an issue for the add-on: Cloudflared][cloudflared-issue]
 - [Open an issue for the add-on: Newt][newt-issue]
 
@@ -111,15 +97,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-code-server]: https://github.com/homeassistant-apps/app-code-server/tree/v4.2.3
-[addon-doc-code-server]: https://github.com/homeassistant-apps/app-code-server/blob/v4.2.3/README.md
-[code-server-issue]: https://github.com/homeassistant-apps/app-code-server/issues
-[code-server-version-shield]: https://img.shields.io/badge/version-v4.2.3-blue.svg
-[code-server-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
-[code-server-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[code-server-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[code-server-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[code-server-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-cloudflared]: https://github.com/homeassistant-apps/app-cloudflared/tree/v7.0.1
 [addon-doc-cloudflared]: https://github.com/homeassistant-apps/app-cloudflared/blob/v7.0.1/README.md
 [cloudflared-issue]: https://github.com/homeassistant-apps/app-cloudflared/issues
