@@ -27,11 +27,8 @@ https://github.com/homeassistant-apps/repository
 ### &#10003; [Cloudflared][addon-cloudflared]
 
 ![Latest Version][cloudflared-version-shield]
-![Supports armhf Architecture][cloudflared-armhf-shield]
-![Supports armv7 Architecture][cloudflared-armv7-shield]
 ![Supports aarch64 Architecture][cloudflared-aarch64-shield]
 ![Supports amd64 Architecture][cloudflared-amd64-shield]
-![Supports i386 Architecture][cloudflared-i386-shield]
 
 Use a Cloudflare Tunnel to remotely connect to Home Assistant without opening any ports
 
@@ -40,11 +37,8 @@ Use a Cloudflare Tunnel to remotely connect to Home Assistant without opening an
 ### &#10003; [Newt][addon-newt]
 
 ![Latest Version][newt-version-shield]
-![Supports armhf Architecture][newt-armhf-shield]
-![Supports armv7 Architecture][newt-armv7-shield]
 ![Supports aarch64 Architecture][newt-aarch64-shield]
 ![Supports amd64 Architecture][newt-amd64-shield]
-![Supports i386 Architecture][newt-i386-shield]
 
 Tunneling client to connect Home Assistant to Pangolin.
 
@@ -103,18 +97,12 @@ SOFTWARE.
 [cloudflared-version-shield]: https://img.shields.io/badge/version-v7.0.1-blue.svg
 [cloudflared-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [cloudflared-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[cloudflared-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[cloudflared-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[cloudflared-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-newt]: https://github.com/homeassistant-apps/app-newt/tree/v1.0.1
 [addon-doc-newt]: https://github.com/homeassistant-apps/app-newt/blob/v1.0.1/README.md
 [newt-issue]: https://github.com/homeassistant-apps/app-newt/issues
 [newt-version-shield]: https://img.shields.io/badge/version-v1.0.1-blue.svg
 [newt-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [newt-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[newt-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[newt-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[newt-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [gitlabci-shield]: https://gitlab.com/homeassistant-apps/repository/badges/master/pipeline.svg
 [gitlabci]: https://gitlab.com/homeassistant-apps/repository/pipelines
 [issue]: https://github.com/homeassistant-apps/repository/issues
