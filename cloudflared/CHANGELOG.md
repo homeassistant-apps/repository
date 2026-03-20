@@ -1,5 +1,12 @@
 # Changelog
 
+## 7.0.5 - 2026-03-20
+
+### ⬆️ Dependency updates
+
+- ⬆️ Update yq to 4.49.2-r4 [@elcajon](https://github.com/elcajon) ([#995](https://github.com/homeassistant-apps/app-cloudflared/pull/995))
+- ⬆️ Update cloudflared to v2026.3.0 @[renovate[bot]](https://github.com/apps/renovate) ([#994](https://github.com/homeassistant-apps/app-cloudflared/pull/994))
+
 ## 7.0.4 - 2026-03-06
 
 ### 🧰 Maintenance
