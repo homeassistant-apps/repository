@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.0.9 - 2026-07-23
+
+### 🧰 Maintenance
+
+- Use official release drafter, as a standalone workflow, without delay [@lmagyar](https://github.com/lmagyar) ([#70](https://github.com/homeassistant-apps/app-newt/pull/70))
+
+### ⬆️ Dependency updates
+
+- ⬆️ Update newt to v1.15.0 @[renovate[bot]](https://github.com/apps/renovate) ([#69](https://github.com/homeassistant-apps/app-newt/pull/69))
+
 ## 1.0.8 - 2026-07-08
 
 ### ⬆️ Dependency updates
