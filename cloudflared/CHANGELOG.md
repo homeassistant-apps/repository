@@ -1,5 +1,12 @@
 # Changelog
 
+## 7.0.16 - 2026-09-11
+
+### ⬆️ Dependency updates
+
+- ⬆️ Update cloudflared to v2026.9.0 @[renovate[bot]](https://github.com/apps/renovate) ([#1086](https://github.com/homeassistant-apps/app-cloudflared/pull/1086))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.5 @[renovate[bot]](https://github.com/apps/renovate) ([#1087](https://github.com/homeassistant-apps/app-cloudflared/pull/1087))
+
 ## 7.0.14 - 2026-08-15
 
 ### 🐛 Bug fixes
